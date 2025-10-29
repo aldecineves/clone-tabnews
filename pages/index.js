@@ -1,4 +1,4 @@
 function Home(){
-    return <h1>DevScout, o melhor!!</h1>
+    return <h1>DevScout, a melhor plataforma que automatiza sua busca de empregos em tecnologia!!🎉</h1>
 }
 export default Home;
